@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+             {
+            "user": "ybm54",
+            "link": "https://youtu.be/wzU1_8lc2vc?si=9ZkN_dsLofAHVucv",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
